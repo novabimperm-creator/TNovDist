@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "personal",
-  "release": "r2026.10.22-165614",
-  "generated": "2026-10-22T11:56:48.7706113Z",
+  "release": "r2026.10.23-134406",
+  "generated": "2026-10-23T08:44:43.767877Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -20,10 +20,10 @@
     },
     {
       "path": "2022/TNov/TNov.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.22-165614/2022.TNov.TNov.dll",
-      "sha256": "51179ab4e8b9a3a22f35957184fb173fc341921cb65ab3cea9dda3b00227d3d4",
-      "size": 698880,
-      "version": "5.26.1022.1005"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.23-134406/2022.TNov.TNov.dll",
+      "sha256": "18798968c644795cbd011ee2c634c93a3edc8f2f040c13bccef9662a707731a7",
+      "size": 704512,
+      "version": "5.26.1023.819"
     },
     {
       "path": "2022/TNov/TNovApi.Client.dll",
@@ -48,10 +48,10 @@
     },
     {
       "path": "2022/TNov/TNovCommon.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.22-140150/2022.TNov.TNovCommon.dll",
-      "sha256": "65ca7c7503ed4a868e4f3af389094d464a69fb1c504f95785acd65c3e05e1944",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.23-134406/2022.TNov.TNovCommon.dll",
+      "sha256": "f2f16557e64f8ec30f548efe2576a491a537000c81c9cb0ec5835542c82d4ebf",
       "size": 1421824,
-      "version": "2.26.1022.807"
+      "version": "2.26.1023.819"
     },
     {
       "path": "2022/TNov/TNovElectrical.dll",
@@ -139,10 +139,10 @@
     },
     {
       "path": "2022/TNov/TNovViewsSheets.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193654/2022.TNov.TNovViewsSheets.dll",
-      "sha256": "9b1f42e583bb4c5696147328791814b88265feb1db1b75ccd7a3a4a57b6a9c07",
-      "size": 1118720,
-      "version": "2.26.1017.1286"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.23-134406/2022.TNov.TNovViewsSheets.dll",
+      "sha256": "0a8e08864fd5d6c8a5e513b5ddbc081a207bb61d3c45a8066c687095416812d8",
+      "size": 1180160,
+      "version": "2.26.1023.819"
     },
     {
       "path": "2027/TNov/Npgsql.dll",
@@ -153,10 +153,10 @@
     },
     {
       "path": "2027/TNov/TNov.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.22-165614/2027.TNov.TNov.dll",
-      "sha256": "75087a70deafdd6067656c5d99e3f815ae3e762b84f4deda1cd955ac9c5ca40b",
-      "size": 705024,
-      "version": "5.26.1022.1005"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.23-134406/2027.TNov.TNov.dll",
+      "sha256": "b302515e44af57350451a8546efd47c0ff60515f225fd7310bc14a17a8a57930",
+      "size": 710656,
+      "version": "5.26.1023.819"
     },
     {
       "path": "2027/TNov/TNovApi.Client.dll",
@@ -181,10 +181,10 @@
     },
     {
       "path": "2027/TNov/TNovCommon.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.22-140150/2027.TNov.TNovCommon.dll",
-      "sha256": "4b0415307963ca480bbfeb0e823f6564a30ca445223fa08b54072c212e19a015",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.23-134406/2027.TNov.TNovCommon.dll",
+      "sha256": "bfaa6536c53a235096852d3c216954acf5ac1ff1a9b538e6d306916ae0386bbd",
       "size": 1425408,
-      "version": "2.26.1022.807"
+      "version": "2.26.1023.819"
     },
     {
       "path": "2027/TNov/TNovElectrical.dll",
@@ -272,10 +272,10 @@
     },
     {
       "path": "2027/TNov/TNovViewsSheets.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193654/2027.TNov.TNovViewsSheets.dll",
-      "sha256": "80600772c31d3cb7d45b1bffbaff3b2c164689145b5a496a93d4414a01270e2a",
-      "size": 1112064,
-      "version": "2.26.1017.1286"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.23-134406/2027.TNov.TNovViewsSheets.dll",
+      "sha256": "e54f8fae67f6770b2f22cfdbc3050ec4849e296dbb358b814ef98f1a2e06eae1",
+      "size": 1174016,
+      "version": "2.26.1023.819"
     },
     {
       "path": "addin/TNov.addin",
@@ -390,9 +390,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.22-140150/releases",
-      "sha256": "3c5ccfa50a05562f0a6688d84651bf9cf85c0fc260ba1d7cd233abf1af955abd",
-      "size": 72674
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.23-134406/releases",
+      "sha256": "6667a6586e8b7b06a11ab4895d7e8630decc6b1de998be1ae8990e87a6127b89",
+      "size": 73258
     }
   ]
 }
