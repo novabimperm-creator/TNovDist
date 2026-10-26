@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.10.26-130016",
-  "generated": "2026-10-26T08:00:34.2399058Z",
+  "release": "r2026.10.26-154634",
+  "generated": "2026-10-26T10:46:50.9557802Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -297,20 +297,6 @@
       "version": "1.1.0+b198c4597a"
     },
     {
-      "path": "client/Microsoft.Toolkit.Uwp.Notifications.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-190340/client.Microsoft.Toolkit.Uwp.Notifications.dll",
-      "sha256": "e6676557727bc03cf7bceb1cb7b46ec4623ed7eb57813e8f04785bcd9d868b05",
-      "size": 163472,
-      "version": "7.1.3+0ce64d053b"
-    },
-    {
-      "path": "client/Microsoft.Windows.SDK.NET.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-190340/client.Microsoft.Windows.SDK.NET.dll",
-      "sha256": "0bc259e7ca3267bfd158330649998aac0077d24310985826894c1c258467e632",
-      "size": 24670752,
-      "version": "10.0.18362.55+0f843ac86c91d29ed7ddb114304e865ef9ad3850"
-    },
-    {
       "path": "client/Newtonsoft.Json.dll",
       "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-190340/client.Newtonsoft.Json.dll",
       "sha256": "a28c251dfe36d881e9e2462e171441b8b0ec156fe3f452602c9149b1b9efe05b",
@@ -319,29 +305,29 @@
     },
     {
       "path": "client/TNovClient.deps.json",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193130/client.TNovClient.deps.json",
-      "sha256": "71eb4832605eef398cd137a180f593cacc1827a388cf971f37b7fa90e52b809f",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.deps.json",
+      "sha256": "0cb33a7ed71d62ad40baea2e16c388cccce0886f6e5e082a95c6a9f9dc423292",
       "size": 1665
     },
     {
       "path": "client/TNovClient.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193130/client.TNovClient.dll",
-      "sha256": "9e2a62aa1bb006db40bb56dbd9a96cf95abca7a7f2a2163f323d15cd1e9789b6",
-      "size": 136704,
-      "version": "2.6.0+76e48394198fa03c4427db53f82224dfe7e7046f"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.dll",
+      "sha256": "27c93e64bf5e2bd33d87b79cb09cbe3408db9e48684ce3c9b268e7fc0856d3c0",
+      "size": 146944,
+      "version": "2.6.1+731175e60155a5a3020d1492c17d6c385f9a451d"
     },
     {
       "path": "client/TNovClient.exe",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193130/client.TNovClient.exe",
-      "sha256": "2b8b5cfc52ab5c91bbd0dabdbd2078265f11f9bc6766b76d59e978a9dbd6cd97",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.exe",
+      "sha256": "90615a2550ea21f1fea37c4758ab677f5082997f80b30ab44e11427d292b17e5",
       "size": 162304,
-      "version": "2.6.0+76e48394198fa03c4427db53f82224dfe7e7046f"
+      "version": "2.6.1+731175e60155a5a3020d1492c17d6c385f9a451d"
     },
     {
       "path": "client/TNovClient.pdb",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193130/client.TNovClient.pdb",
-      "sha256": "5155feb9b6dd53fd1a4f87a82f61d336acb9cbef20a2e80718dd1049e0b22255",
-      "size": 325120
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.pdb",
+      "sha256": "9a7546d9533ee79c096dff1f0baa7baeb0dca43baf469b6ead595ac5636bccdf",
+      "size": 343552
     },
     {
       "path": "client/TNovClient.runtimeconfig.json",
@@ -357,36 +343,29 @@
     },
     {
       "path": "client/TNovClient.Updater.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193130/client.TNovClient.Updater.dll",
-      "sha256": "730c513952ce64facf55c315d3cd8ef363142d962224ed0deb02daf587244459",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.Updater.dll",
+      "sha256": "3f7865deb30b1952228ad601c75ecb5daec5afdf9548892712402b7fcc7421ff",
       "size": 8192,
-      "version": "2.2.0+76e48394198fa03c4427db53f82224dfe7e7046f"
+      "version": "2.2.0+731175e60155a5a3020d1492c17d6c385f9a451d"
     },
     {
       "path": "client/TNovClient.Updater.exe",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193130/client.TNovClient.Updater.exe",
-      "sha256": "c9a0c2dbe2ab3833f31ea7167ac918da633829b05e8baf855672eea43b6a4107",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.Updater.exe",
+      "sha256": "930e5f609013d8d55998822587ef23d34dbab2e7f8246e105c5d223d80925064",
       "size": 162816,
-      "version": "2.2.0+76e48394198fa03c4427db53f82224dfe7e7046f"
+      "version": "2.2.0+731175e60155a5a3020d1492c17d6c385f9a451d"
     },
     {
       "path": "client/TNovClient.Updater.pdb",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193130/client.TNovClient.Updater.pdb",
-      "sha256": "6e12f494c8a23a992ea1cf577dbdd7c0dd7368aba88fc0b9446d89df7c3c0cd1",
-      "size": 12956
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.Updater.pdb",
+      "sha256": "b744b2909e38c2671ae12be6bfaefe8906fcdbeeef390aaa075d8029c138a59c",
+      "size": 12808
     },
     {
       "path": "client/TNovClient.Updater.runtimeconfig.json",
       "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-190340/client.TNovClient.Updater.runtimeconfig.json",
       "sha256": "3e965cd7cfd553c2ff4e842d8d8019aaae2da0a21d92ff85a87573dd8d1b95c6",
       "size": 399
-    },
-    {
-      "path": "client/WinRT.Runtime.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-190340/client.WinRT.Runtime.dll",
-      "sha256": "a4ad817d3106d88b9c2da83d15669f7f135b14722b4a0e64818237bf39557f20",
-      "size": 529440,
-      "version": "2.2.0.48161+8649ee3eeb2445ca2a36d80d878ef60b96a6c65d"
     },
     {
       "path": "releases",
