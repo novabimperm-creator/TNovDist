@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "personal",
-  "release": "r2026.10.27-152712",
-  "generated": "2026-10-27T10:27:52.8896578Z",
+  "release": "r2026.10.27-153248",
+  "generated": "2026-10-27T10:33:20.0222288Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -376,10 +376,10 @@
     },
     {
       "path": "acad/R24/TNovCAD.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.TNovCAD.dll",
-      "sha256": "301cf9b7be9e80b1a312efcf6bff545101b491a2fab6467117140b8cd01e64b9",
-      "size": 240128,
-      "version": "5.26.1027.633"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-153248/acad.R24.TNovCAD.dll",
+      "sha256": "ba5992119f4629306cc1f31992d40bb90cf70f21f3ec472501ab349c57e5a5e0",
+      "size": 244736,
+      "version": "5.26.1027.927"
     },
     {
       "path": "acad/R25/Microsoft.CodeAnalysis.CSharp.dll",
@@ -424,10 +424,10 @@
     },
     {
       "path": "acad/R25/TNovCAD.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R25.TNovCAD.dll",
-      "sha256": "858c5759e4fb5b1e1f0fc55998fe09950b745bd5cf3348f0d1d769927c311427",
-      "size": 242688,
-      "version": "5.26.1027.633"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-153248/acad.R25.TNovCAD.dll",
+      "sha256": "79aff09bf4499b7473030afc50afe3c931ecee6740f607f0809ef7a2849beae4",
+      "size": 247296,
+      "version": "5.26.1027.927"
     },
     {
       "path": "acad/R26/Microsoft.CodeAnalysis.CSharp.dll",
@@ -472,10 +472,10 @@
     },
     {
       "path": "acad/R26/TNovCAD.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R26.TNovCAD.dll",
-      "sha256": "05c8b32506f0b2c05b97825441cc83833838a1e886de148548b4907a0c052f3b",
-      "size": 243200,
-      "version": "5.26.1027.633"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-153248/acad.R26.TNovCAD.dll",
+      "sha256": "ce644160a44c95169f3a080a063902d772d20f07f5f99a35cc6da18285f14b65",
+      "size": 247808,
+      "version": "5.26.1027.927"
     },
     {
       "path": "addin/TNov.addin",
