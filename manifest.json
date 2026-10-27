@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "personal",
-  "release": "r2026.10.26-154634",
-  "generated": "2026-10-26T10:47:08.2683354Z",
+  "release": "r2026.10.27-112222",
+  "generated": "2026-10-27T06:24:19.3064165Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -62,10 +62,10 @@
     },
     {
       "path": "2022/TNov/TNovFinishing.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193654/2022.TNov.TNovFinishing.dll",
-      "sha256": "8a809736fa0137015527024687b07cc007efec773c8a954fdcb2cc8e008d1b86",
-      "size": 58880,
-      "version": "1.26.1017.1286"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/2022.TNov.TNovFinishing.dll",
+      "sha256": "06cc3b32b699b97c1a79b33322a1d209c94415657e48611c9945541bb1913cac",
+      "size": 50176,
+      "version": "1.26.1027.668"
     },
     {
       "path": "2022/TNov/TNovMEPSpec.dll",
@@ -195,10 +195,10 @@
     },
     {
       "path": "2027/TNov/TNovFinishing.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193654/2027.TNov.TNovFinishing.dll",
-      "sha256": "a4dc8dc9f36d268224051054bdb822962945e4a79a81796552c1d8bb7508d2f3",
-      "size": 58880,
-      "version": "1.26.1017.1286"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/2027.TNov.TNovFinishing.dll",
+      "sha256": "0b6121e9e78bba76f523bf758f938d3c224028a941e5772be6db4ee140be252a",
+      "size": 50176,
+      "version": "1.26.1027.669"
     },
     {
       "path": "2027/TNov/TNovMEPSpec.dll",
@@ -278,6 +278,206 @@
       "version": "2.26.1023.819"
     },
     {
+      "path": "acad/PackageContents.xml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.PackageContents.xml",
+      "sha256": "7e663d18a7e7f0f9e91e3d967904c05b84a9d325e9ca493ed88db0579b4daa8e",
+      "size": 1788
+    },
+    {
+      "path": "acad/R24/Microsoft.CodeAnalysis.CSharp.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.Microsoft.CodeAnalysis.CSharp.dll",
+      "sha256": "972952b9eba9e28ed7ce14f41a4390a3d9d1c765770f6849213dbec5f74d4ead",
+      "size": 7037088,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R24/Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+      "sha256": "fe72cf23f5410572ea1c36daeec18468e979662338dfba321f323a616a3c475f",
+      "size": 34568,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R24/Microsoft.CodeAnalysis.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.Microsoft.CodeAnalysis.dll",
+      "sha256": "bec8f0c4ffa3ad4764e9dbc174c51bfc667053e9f6597df05639a4414194d235",
+      "size": 4923056,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R24/Microsoft.CodeAnalysis.Scripting.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.Microsoft.CodeAnalysis.Scripting.dll",
+      "sha256": "c11265a546b2c1c0dd9b17c2b815c218c9d1e039564eb746b5a4f1deecfbc747",
+      "size": 138504,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R24/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "acad/R24/System.Buffers.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.System.Buffers.dll",
+      "sha256": "accccfbe45d9f08ffeed9916e37b33e98c65be012cfff6e7fa7b67210ce1fefb",
+      "size": 20856,
+      "version": "4.6.28619.01 @BuiltBy: dlab14-DDVSOWINAGE069 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/7601f4f6225089ffb291dc7d58293c7bbf5c5d4f"
+    },
+    {
+      "path": "acad/R24/System.Collections.Immutable.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.System.Collections.Immutable.dll",
+      "sha256": "d5ec0837bb176abf13dcd52c658c4e84c5264f67065b9c19679b6643f7d21564",
+      "size": 252696,
+      "version": "8.0.0+5535e31a712343a63f5d7d796cd874e563e5ac14"
+    },
+    {
+      "path": "acad/R24/System.Memory.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.System.Memory.dll",
+      "sha256": "bf3fb84664f4097f1a8a9bc71a51dcf8cf1a905d4080a4d290da1730866e856f",
+      "size": 142240,
+      "version": "4.6.31308.01 @BuiltBy: cloudtest-841353dfc000000 @Branch: release/2.1-MSRC @SrcCode: https://github.com/dotnet/corefx/tree/32b491939fbd125f304031c35038b1e14b4e3958"
+    },
+    {
+      "path": "acad/R24/System.Numerics.Vectors.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.System.Numerics.Vectors.dll",
+      "sha256": "1d3ef8698281e7cf7371d1554afef5872b39f96c26da772210a33da041ba1183",
+      "size": 115856,
+      "version": "4.6.26515.06 @BuiltBy: dlab-DDVSOWINAGE059 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/30ab651fcb4354552bd4891619a0bdd81e0ebdbf"
+    },
+    {
+      "path": "acad/R24/System.Reflection.Metadata.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.System.Reflection.Metadata.dll",
+      "sha256": "f79ea5e38af769cbde5d7f5e873564708941a148bb461472019e10373ea4c780",
+      "size": 487696,
+      "version": "8.0.0+5535e31a712343a63f5d7d796cd874e563e5ac14"
+    },
+    {
+      "path": "acad/R24/System.Runtime.CompilerServices.Unsafe.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.System.Runtime.CompilerServices.Unsafe.dll",
+      "sha256": "37768488e8ef45729bc7d9a2677633c6450042975bb96516e186da6cb9cd0dcf",
+      "size": 18024,
+      "version": "6.0.0+4822e3c3aa77eb82b2fb33c9321f923cf11ddde6"
+    },
+    {
+      "path": "acad/R24/System.Text.Encoding.CodePages.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.System.Text.Encoding.CodePages.dll",
+      "sha256": "67d868132552144c49ad929af33b774b371e3d1e5cb6ad2b67523bcd08351553",
+      "size": 764560,
+      "version": "7.0.0+d099f075e45d2aa6007a22b71b45a08758559f80"
+    },
+    {
+      "path": "acad/R24/System.Threading.Tasks.Extensions.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.System.Threading.Tasks.Extensions.dll",
+      "sha256": "4f81ffd0dc7204db75afc35ea4291769b07c440592f28894260eea76626a23c6",
+      "size": 25984,
+      "version": "4.6.28619.01 @BuiltBy: dlab14-DDVSOWINAGE069 @Branch: release/2.1 @SrcCode: https://github.com/dotnet/corefx/tree/7601f4f6225089ffb291dc7d58293c7bbf5c5d4f"
+    },
+    {
+      "path": "acad/R24/TNovCAD.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R24.TNovCAD.dll",
+      "sha256": "301cf9b7be9e80b1a312efcf6bff545101b491a2fab6467117140b8cd01e64b9",
+      "size": 240128,
+      "version": "5.26.1027.633"
+    },
+    {
+      "path": "acad/R25/Microsoft.CodeAnalysis.CSharp.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R25.Microsoft.CodeAnalysis.CSharp.dll",
+      "sha256": "c46e884a3f2910fd6098b104131cae600c1716ae14b27ffe2d22c54c7f71ff11",
+      "size": 6523664,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R25/Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R25.Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+      "sha256": "806ed467c8cc65939444868a1dc15e10812362ac89cf37c1084575a2855a4a1b",
+      "size": 33968,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R25/Microsoft.CodeAnalysis.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R25.Microsoft.CodeAnalysis.dll",
+      "sha256": "8d919bcf3e2f0e74dc1e79c713f06934201cd2338ad23b9a430e53944ebc0408",
+      "size": 2985224,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R25/Microsoft.CodeAnalysis.Scripting.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R25.Microsoft.CodeAnalysis.Scripting.dll",
+      "sha256": "81925ac77599ceca321e25484a5bc5ff527403157d2753d4a3673db7420e490f",
+      "size": 137888,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R25/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R25.Newtonsoft.Json.dll",
+      "sha256": "22c649f75fce5be7c7ccda8880473b634ef69ecf33f5d1ab8ad892caf47d5a07",
+      "size": 712464,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "acad/R25/TNovCAD.deps.json",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R25.TNovCAD.deps.json",
+      "sha256": "11f408169d3e9f2db9634964e3352426df6245b35719fd31ab33f43e9e07c99d",
+      "size": 4607
+    },
+    {
+      "path": "acad/R25/TNovCAD.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R25.TNovCAD.dll",
+      "sha256": "858c5759e4fb5b1e1f0fc55998fe09950b745bd5cf3348f0d1d769927c311427",
+      "size": 242688,
+      "version": "5.26.1027.633"
+    },
+    {
+      "path": "acad/R26/Microsoft.CodeAnalysis.CSharp.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R26.Microsoft.CodeAnalysis.CSharp.dll",
+      "sha256": "c46e884a3f2910fd6098b104131cae600c1716ae14b27ffe2d22c54c7f71ff11",
+      "size": 6523664,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R26/Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R26.Microsoft.CodeAnalysis.CSharp.Scripting.dll",
+      "sha256": "806ed467c8cc65939444868a1dc15e10812362ac89cf37c1084575a2855a4a1b",
+      "size": 33968,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R26/Microsoft.CodeAnalysis.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R26.Microsoft.CodeAnalysis.dll",
+      "sha256": "8d919bcf3e2f0e74dc1e79c713f06934201cd2338ad23b9a430e53944ebc0408",
+      "size": 2985224,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R26/Microsoft.CodeAnalysis.Scripting.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R26.Microsoft.CodeAnalysis.Scripting.dll",
+      "sha256": "81925ac77599ceca321e25484a5bc5ff527403157d2753d4a3673db7420e490f",
+      "size": 137888,
+      "version": "4.11.0-3.24376.4+5e3a11e2e7f952da93f9d35bd63a2fa181c0608b"
+    },
+    {
+      "path": "acad/R26/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R26.Newtonsoft.Json.dll",
+      "sha256": "22c649f75fce5be7c7ccda8880473b634ef69ecf33f5d1ab8ad892caf47d5a07",
+      "size": 712464,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "acad/R26/TNovCAD.deps.json",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R26.TNovCAD.deps.json",
+      "sha256": "11ef1953844ef3b73293cdb978e945cce6945abeda926a09ecac8b5b12c1db5f",
+      "size": 4609
+    },
+    {
+      "path": "acad/R26/TNovCAD.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/acad.R26.TNovCAD.dll",
+      "sha256": "05c8b32506f0b2c05b97825441cc83833838a1e886de148548b4907a0c052f3b",
+      "size": 243200,
+      "version": "5.26.1027.633"
+    },
+    {
       "path": "addin/TNov.addin",
       "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-190340/addin.TNov.addin",
       "sha256": "8b9562fb922fba274ba1245fc90a7fd9965208cf5dc744297bd2a0b32f5785fd",
@@ -305,29 +505,29 @@
     },
     {
       "path": "client/TNovClient.deps.json",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.deps.json",
-      "sha256": "0cb33a7ed71d62ad40baea2e16c388cccce0886f6e5e082a95c6a9f9dc423292",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/client.TNovClient.deps.json",
+      "sha256": "c3e221bdfb68dddf15640ab985605dcb344d01e6d37d66421adf22f0ff312e82",
       "size": 1665
     },
     {
       "path": "client/TNovClient.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.dll",
-      "sha256": "27c93e64bf5e2bd33d87b79cb09cbe3408db9e48684ce3c9b268e7fc0856d3c0",
-      "size": 146944,
-      "version": "2.6.1+731175e60155a5a3020d1492c17d6c385f9a451d"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/client.TNovClient.dll",
+      "sha256": "f55b7a97734004313ddbfb048ae19dcdd28a549e81c753121ec10465a3dfbfc6",
+      "size": 157184,
+      "version": "2.7.1+a0c2b2641189e724bcce2a9b495e44b54c8466f7"
     },
     {
       "path": "client/TNovClient.exe",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.exe",
-      "sha256": "90615a2550ea21f1fea37c4758ab677f5082997f80b30ab44e11427d292b17e5",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/client.TNovClient.exe",
+      "sha256": "d38d4db519294ce629ed8283de4ee64c2d8fa58a74ade7d147df006f7fda2c1f",
       "size": 162304,
-      "version": "2.6.1+731175e60155a5a3020d1492c17d6c385f9a451d"
+      "version": "2.7.1+a0c2b2641189e724bcce2a9b495e44b54c8466f7"
     },
     {
       "path": "client/TNovClient.pdb",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.pdb",
-      "sha256": "9a7546d9533ee79c096dff1f0baa7baeb0dca43baf469b6ead595ac5636bccdf",
-      "size": 343552
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/client.TNovClient.pdb",
+      "sha256": "906b1eba9b11e851ab1ece25232450b1c58a5ada0f0f87a3458152e78238b85c",
+      "size": 361984
     },
     {
       "path": "client/TNovClient.runtimeconfig.json",
@@ -343,23 +543,23 @@
     },
     {
       "path": "client/TNovClient.Updater.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.Updater.dll",
-      "sha256": "3f7865deb30b1952228ad601c75ecb5daec5afdf9548892712402b7fcc7421ff",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/client.TNovClient.Updater.dll",
+      "sha256": "402b835e2e1666cfbb9584237c5c3a6f4f9140da1844c899e8a25f06d674089c",
       "size": 8192,
-      "version": "2.2.0+731175e60155a5a3020d1492c17d6c385f9a451d"
+      "version": "2.2.0+a0c2b2641189e724bcce2a9b495e44b54c8466f7"
     },
     {
       "path": "client/TNovClient.Updater.exe",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.Updater.exe",
-      "sha256": "930e5f609013d8d55998822587ef23d34dbab2e7f8246e105c5d223d80925064",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/client.TNovClient.Updater.exe",
+      "sha256": "31d6d2e033cf5fb5d60e9087e7c7a0e521ac5d485bee96ef9b82cfc357b21f87",
       "size": 162816,
-      "version": "2.2.0+731175e60155a5a3020d1492c17d6c385f9a451d"
+      "version": "2.2.0+a0c2b2641189e724bcce2a9b495e44b54c8466f7"
     },
     {
       "path": "client/TNovClient.Updater.pdb",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-154634/client.TNovClient.Updater.pdb",
-      "sha256": "b744b2909e38c2671ae12be6bfaefe8906fcdbeeef390aaa075d8029c138a59c",
-      "size": 12808
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/client.TNovClient.Updater.pdb",
+      "sha256": "447c677b7bc29d3b75246cc267c8f756d3bb43d3e8b03b093e1ef04aaaa47cff",
+      "size": 12804
     },
     {
       "path": "client/TNovClient.Updater.runtimeconfig.json",
@@ -369,9 +569,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.26-130016/releases",
-      "sha256": "1f35a46dd2c6cf01309912c541c285175932965fd1456ab8ba6ba6b89a9536bf",
-      "size": 73669
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-112222/releases",
+      "sha256": "260b1c29b288fe9142a3d9211b1001cc965d6857609fe53cb0b50f168b1032e0",
+      "size": 73970
     }
   ]
 }
