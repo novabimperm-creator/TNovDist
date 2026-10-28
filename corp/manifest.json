@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.10.28-155325",
-  "generated": "2026-10-28T10:53:40.1618568Z",
+  "release": "r2026.10.28-160336",
+  "generated": "2026-10-28T11:03:47.0926411Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -55,10 +55,10 @@
     },
     {
       "path": "2022/TNov/TNovElectrical.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193654/2022.TNov.TNovElectrical.dll",
-      "sha256": "d5be62e67da7ce17b10dc4a0fb6fffa5143e627f6fef46086ddad40f4979ea3f",
-      "size": 116224,
-      "version": "1.26.1017.1286"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.28-160336/2022.TNov.TNovElectrical.dll",
+      "sha256": "e357b17cdb5b20244865762b4e4616ddd7fa74af1ecc75caffc9bd1f0d2694f7",
+      "size": 118272,
+      "version": "1.26.1028.961"
     },
     {
       "path": "2022/TNov/TNovFinishing.dll",
@@ -188,10 +188,10 @@
     },
     {
       "path": "2027/TNov/TNovElectrical.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-193654/2027.TNov.TNovElectrical.dll",
-      "sha256": "96f2e778759a350037e4bee47b05978baa458e58d4cf5c32ccf797bc9f42ab82",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.28-160336/2027.TNov.TNovElectrical.dll",
+      "sha256": "4646995459bf1e639d1e119ffe9899f334eb14469a2aa2461df4c1d3e834dd07",
       "size": 116736,
-      "version": "1.26.1017.1286"
+      "version": "1.26.1028.949"
     },
     {
       "path": "2027/TNov/TNovFinishing.dll",
@@ -569,9 +569,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.28-155325/releases",
-      "sha256": "f36f93f6a4f12dcee2b93d2d8b79be4ef0704c2ae69f99242f2a4109170fa5b9",
-      "size": 75238
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.28-160336/releases",
+      "sha256": "6bbff837be86bee9513054e8fda12f0f0de272e85c27687af927dbdf3ae1ca40",
+      "size": 75535
     }
   ]
 }
