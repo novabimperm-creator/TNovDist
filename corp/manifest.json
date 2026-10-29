@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.10.29-144548",
-  "generated": "2026-10-29T09:45:57.5695066Z",
+  "release": "r2026.10.29-144937",
+  "generated": "2026-10-29T09:49:44.7249551Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -41,10 +41,10 @@
     },
     {
       "path": "2022/TNov/TNovBIMUtils.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.29-144548/2022.TNov.TNovBIMUtils.dll",
-      "sha256": "abca1eee792e672288da0f95373672301ae74d167819dda1a035f1a7e9577733",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.29-144937/2022.TNov.TNovBIMUtils.dll",
+      "sha256": "25e05eaab0936da9fdf0e70f406577ed4abbf9a0b5693e93b02313eb2dd11473",
       "size": 194560,
-      "version": "2.26.1029.882"
+      "version": "2.26.1029.888"
     },
     {
       "path": "2022/TNov/TNovCommon.dll",
