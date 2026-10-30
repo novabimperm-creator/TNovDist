@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.10.30-105608",
-  "generated": "2026-10-30T05:56:46.2738055Z",
+  "release": "r2026.10.30-164104",
+  "generated": "2026-10-30T11:41:16.4653474Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -505,29 +505,29 @@
     },
     {
       "path": "client/TNovClient.deps.json",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/client.TNovClient.deps.json",
-      "sha256": "f20953fe32993988d6ccfe856c82ca7a183df91b17e557b2c77772ed9a596889",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-164104/client.TNovClient.deps.json",
+      "sha256": "af2e8433e6ec1aa3ec394adb45557f5705de6461c67b5b3fb550a63c2e8bf3b7",
       "size": 1665
     },
     {
       "path": "client/TNovClient.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/client.TNovClient.dll",
-      "sha256": "4b58e3c3b5d515b0a1dde4a244d590ee822f237ea1301d6d205b68a8a4492793",
-      "size": 176640,
-      "version": "2.9.0+e9afe11778ebe46fcfe7382310c71b164e58c79d"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-164104/client.TNovClient.dll",
+      "sha256": "9bf4424745213cd432e1019fbe78797da1f9c9174368858c01b4b8f910efebb9",
+      "size": 178688,
+      "version": "2.9.1+e9afe11778ebe46fcfe7382310c71b164e58c79d"
     },
     {
       "path": "client/TNovClient.exe",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/client.TNovClient.exe",
-      "sha256": "9a4065d1fe69d9210a995acebda4ba582f534a804fc52af2c01d124791eaae34",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-164104/client.TNovClient.exe",
+      "sha256": "188d620db47e2485aaf595d255ecc48fcc0ad071538e75da29a85a74d445b3ec",
       "size": 162304,
-      "version": "2.9.0+e9afe11778ebe46fcfe7382310c71b164e58c79d"
+      "version": "2.9.1+e9afe11778ebe46fcfe7382310c71b164e58c79d"
     },
     {
       "path": "client/TNovClient.pdb",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/client.TNovClient.pdb",
-      "sha256": "cd6820e583c08643b317f566ccfbcd18f586a200252376d9a040395f4711ec97",
-      "size": 402944
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-164104/client.TNovClient.pdb",
+      "sha256": "d96b872ba320d9a4e63dd8d0addd034d17667c2ad050744b6c6a969abc0acd5a",
+      "size": 411136
     },
     {
       "path": "client/TNovClient.runtimeconfig.json",
