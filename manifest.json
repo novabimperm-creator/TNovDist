@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "personal",
-  "release": "r2026.11.02-091841",
-  "generated": "2026-11-02T04:19:09.5385523Z",
+  "release": "r2026.11.02-144459",
+  "generated": "2026-11-02T09:45:41.4330174Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -48,10 +48,10 @@
     },
     {
       "path": "2022/TNov/TNovCommon.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/2022.TNov.TNovCommon.dll",
-      "sha256": "a7237eeb4a164c8be4469bdf2ab99413c224e7cbb2e989124dd2fc04e315b0cb",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-144459/2022.TNov.TNovCommon.dll",
+      "sha256": "511a3c911e4d564da9ac9aff278092c14b12e5f2a3f2fa4ad05819beec544b62",
       "size": 1377280,
-      "version": "2.26.1030.646"
+      "version": "2.26.1102.878"
     },
     {
       "path": "2022/TNov/TNovElectrical.dll",
@@ -118,10 +118,10 @@
     },
     {
       "path": "2022/TNov/TNovUtilsAR.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/2022.TNov.TNovUtilsAR.dll",
-      "sha256": "b8cf30020a22a2f701f52a2bab55ee7fd84e3ea72daaa98c09bdfbde69e12a15",
-      "size": 516608,
-      "version": "1.26.1030.646"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-144459/2022.TNov.TNovUtilsAR.dll",
+      "sha256": "199680c357d2fa75d693753a5cb0b084baca15d4285dedabb96be302dd90f39c",
+      "size": 526848,
+      "version": "1.26.1102.878"
     },
     {
       "path": "2022/TNov/TNovUtilsST.dll",
@@ -181,10 +181,10 @@
     },
     {
       "path": "2027/TNov/TNovCommon.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/2027.TNov.TNovCommon.dll",
-      "sha256": "e68f43242f6d420a3ba0e3005439550ddd322b039ef0951a623e9a68489259b3",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-144459/2027.TNov.TNovCommon.dll",
+      "sha256": "117eb0949b4566b18bbc6e22859194175832e03965aa512126463194bd510523",
       "size": 1380864,
-      "version": "2.26.1030.647"
+      "version": "2.26.1102.878"
     },
     {
       "path": "2027/TNov/TNovElectrical.dll",
@@ -251,10 +251,10 @@
     },
     {
       "path": "2027/TNov/TNovUtilsAR.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/2027.TNov.TNovUtilsAR.dll",
-      "sha256": "8fcc0e45bd3130748ae282f3338828a81415e2729af308e4dab87f10d6413971",
-      "size": 522752,
-      "version": "1.26.1030.647"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-144459/2027.TNov.TNovUtilsAR.dll",
+      "sha256": "6b9ec55107a0e51d3c6843b67da1bee79c3c2d6de6c76bd63adc372db4d125a5",
+      "size": 532992,
+      "version": "1.26.1102.878"
     },
     {
       "path": "2027/TNov/TNovUtilsST.dll",
@@ -569,9 +569,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-091841/releases",
-      "sha256": "abbc19799ef985d1510f357561c2866a3293f8ddfb30ae49d66c0dcb2f1c7c9e",
-      "size": 76881
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-144459/releases",
+      "sha256": "e5baa0b3058afaab26a1002579aeb308b8ea49e193e1a40fb9dd75cdc2202c6d",
+      "size": 77170
     }
   ]
 }
