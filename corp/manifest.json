@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.02-144459",
-  "generated": "2026-11-02T09:45:24.3437409Z",
+  "release": "r2026.11.02-150043",
+  "generated": "2026-11-02T10:03:48.843445Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -505,29 +505,29 @@
     },
     {
       "path": "client/TNovClient.deps.json",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-164104/client.TNovClient.deps.json",
-      "sha256": "af2e8433e6ec1aa3ec394adb45557f5705de6461c67b5b3fb550a63c2e8bf3b7",
-      "size": 1665
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/client.TNovClient.deps.json",
+      "sha256": "dcc6e7d642a7a4a9e3c578c44bc454845707cc083d84e934318080c6b53ba48c",
+      "size": 1667
     },
     {
       "path": "client/TNovClient.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-164104/client.TNovClient.dll",
-      "sha256": "9bf4424745213cd432e1019fbe78797da1f9c9174368858c01b4b8f910efebb9",
-      "size": 178688,
-      "version": "2.9.1+e9afe11778ebe46fcfe7382310c71b164e58c79d"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/client.TNovClient.dll",
+      "sha256": "11660fa5917567336367b9ab23f49197068243d29a0bbb461b1542ad344c749b",
+      "size": 195584,
+      "version": "2.10.0+a3246034f84a1395977488abb07b5a901ee2899b"
     },
     {
       "path": "client/TNovClient.exe",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-164104/client.TNovClient.exe",
-      "sha256": "188d620db47e2485aaf595d255ecc48fcc0ad071538e75da29a85a74d445b3ec",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/client.TNovClient.exe",
+      "sha256": "ba3f954e4555e928945ff083c7a242f95574ace7c673c5f54ec62fc2a7816bef",
       "size": 162304,
-      "version": "2.9.1+e9afe11778ebe46fcfe7382310c71b164e58c79d"
+      "version": "2.10.0+a3246034f84a1395977488abb07b5a901ee2899b"
     },
     {
       "path": "client/TNovClient.pdb",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-164104/client.TNovClient.pdb",
-      "sha256": "d96b872ba320d9a4e63dd8d0addd034d17667c2ad050744b6c6a969abc0acd5a",
-      "size": 411136
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/client.TNovClient.pdb",
+      "sha256": "d4f9fd22bec76722673aaa22d17ae5901a8bd0efd5adc17d1f20d6d259baef86",
+      "size": 445952
     },
     {
       "path": "client/TNovClient.runtimeconfig.json",
@@ -543,22 +543,22 @@
     },
     {
       "path": "client/TNovClient.Updater.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/client.TNovClient.Updater.dll",
-      "sha256": "da124679b1b8d4a2180cd4c425d6b6799bb6ba7a944d62dbd3c707228330a37d",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/client.TNovClient.Updater.dll",
+      "sha256": "b62813f0e74e8e2cf68cd2a8542a51b3ce5ba4a1dd75ba13d0b0e026b4ea3e0a",
       "size": 8192,
-      "version": "2.2.0+e9afe11778ebe46fcfe7382310c71b164e58c79d"
+      "version": "2.2.0+a3246034f84a1395977488abb07b5a901ee2899b"
     },
     {
       "path": "client/TNovClient.Updater.exe",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/client.TNovClient.Updater.exe",
-      "sha256": "ce718b5b763de2ee0c636a41c57ff11154ec7a093d009a29cda522859e56088d",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/client.TNovClient.Updater.exe",
+      "sha256": "f387bbec3cadb8f539ecfd6c73aeb8d5b3b5157898fd1c9fb658bb8e7217cb25",
       "size": 162816,
-      "version": "2.2.0+e9afe11778ebe46fcfe7382310c71b164e58c79d"
+      "version": "2.2.0+a3246034f84a1395977488abb07b5a901ee2899b"
     },
     {
       "path": "client/TNovClient.Updater.pdb",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/client.TNovClient.Updater.pdb",
-      "sha256": "cb17167400d3a032b402b57a081c1b52f8d0ec3752c035a0e20c405470f5587f",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/client.TNovClient.Updater.pdb",
+      "sha256": "cfecd04f3fdc5f34910470036e3975851e6a5f2b97a3a44220e1a785d0859ed7",
       "size": 12808
     },
     {
@@ -566,6 +566,660 @@
       "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.18-190340/client.TNovClient.Updater.runtimeconfig.json",
       "sha256": "3e965cd7cfd553c2ff4e842d8d8019aaae2da0a21d92ff85a87573dd8d1b95c6",
       "size": 399
+    },
+    {
+      "path": "navis/2020/en-US/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.en-US.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2020/en-US/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.en-US.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2020/Images/Issues16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.Images.Issues16.png",
+      "sha256": "9af81432a7461c512102b98150416b950879fe765b77026804b12f943551c935",
+      "size": 953
+    },
+    {
+      "path": "navis/2020/Images/Issues32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.Images.Issues32.png",
+      "sha256": "d587bfc162b0de60917b3a679fbf2a79182bd42f5abb29bb83100f6e8a906d72",
+      "size": 1672
+    },
+    {
+      "path": "navis/2020/Images/Talan16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.Images.Talan16.png",
+      "sha256": "e2e551e2a60177724bbd038c1a4789e4bdbf6a20638344039ce5ca9e80c84b8b",
+      "size": 881
+    },
+    {
+      "path": "navis/2020/Images/Talan32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.Images.Talan32.png",
+      "sha256": "ac456139ce08d8908d19407e935f5a92ef103c80bfe2d4d603098ea85d0486c5",
+      "size": 1264
+    },
+    {
+      "path": "navis/2020/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "navis/2020/ru-RU/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.ru-RU.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2020/ru-RU/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.ru-RU.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2020/TalanNw.Batch.exe",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.TalanNw.Batch.exe",
+      "sha256": "2fbf71492cfcb452f6fed80f4f9014da4b08fddb8cb02b0d71e76dc547121345",
+      "size": 31232,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2020/TalanNw.Batch.exe.config",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.TalanNw.Batch.exe.config",
+      "sha256": "051099983b896673909e01a1f631b6652abb88da95c9f06f3efef4be033091fa",
+      "size": 174
+    },
+    {
+      "path": "navis/2020/template.txt",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.template.txt",
+      "sha256": "60e4ee491e5f83c16b85ac8fa15b32bc1cc88b735581f842fcd25d21063ef472",
+      "size": 162
+    },
+    {
+      "path": "navis/2020/TNovPro.Issues.Navisworks.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2020.TNovPro.Issues.Navisworks.dll",
+      "sha256": "ec66b6e8971357c387b8b095e4dc25d89045a5446841560af47ecd0c7d2c897f",
+      "size": 317952,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2021/en-US/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.en-US.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2021/en-US/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.en-US.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2021/Images/Issues16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.Images.Issues16.png",
+      "sha256": "9af81432a7461c512102b98150416b950879fe765b77026804b12f943551c935",
+      "size": 953
+    },
+    {
+      "path": "navis/2021/Images/Issues32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.Images.Issues32.png",
+      "sha256": "d587bfc162b0de60917b3a679fbf2a79182bd42f5abb29bb83100f6e8a906d72",
+      "size": 1672
+    },
+    {
+      "path": "navis/2021/Images/Talan16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.Images.Talan16.png",
+      "sha256": "e2e551e2a60177724bbd038c1a4789e4bdbf6a20638344039ce5ca9e80c84b8b",
+      "size": 881
+    },
+    {
+      "path": "navis/2021/Images/Talan32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.Images.Talan32.png",
+      "sha256": "ac456139ce08d8908d19407e935f5a92ef103c80bfe2d4d603098ea85d0486c5",
+      "size": 1264
+    },
+    {
+      "path": "navis/2021/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "navis/2021/ru-RU/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.ru-RU.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2021/ru-RU/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.ru-RU.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2021/TalanNw.Batch.exe",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.TalanNw.Batch.exe",
+      "sha256": "2fbf71492cfcb452f6fed80f4f9014da4b08fddb8cb02b0d71e76dc547121345",
+      "size": 31232,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2021/TalanNw.Batch.exe.config",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.TalanNw.Batch.exe.config",
+      "sha256": "051099983b896673909e01a1f631b6652abb88da95c9f06f3efef4be033091fa",
+      "size": 174
+    },
+    {
+      "path": "navis/2021/template.txt",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.template.txt",
+      "sha256": "60e4ee491e5f83c16b85ac8fa15b32bc1cc88b735581f842fcd25d21063ef472",
+      "size": 162
+    },
+    {
+      "path": "navis/2021/TNovPro.Issues.Navisworks.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2021.TNovPro.Issues.Navisworks.dll",
+      "sha256": "01f4b322e57d8a570906af3a6fe8929a3b6f286c7b3fd79085454d912489cb65",
+      "size": 317952,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2022/en-US/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.en-US.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2022/en-US/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.en-US.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2022/Images/Issues16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.Images.Issues16.png",
+      "sha256": "9af81432a7461c512102b98150416b950879fe765b77026804b12f943551c935",
+      "size": 953
+    },
+    {
+      "path": "navis/2022/Images/Issues32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.Images.Issues32.png",
+      "sha256": "d587bfc162b0de60917b3a679fbf2a79182bd42f5abb29bb83100f6e8a906d72",
+      "size": 1672
+    },
+    {
+      "path": "navis/2022/Images/Talan16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.Images.Talan16.png",
+      "sha256": "e2e551e2a60177724bbd038c1a4789e4bdbf6a20638344039ce5ca9e80c84b8b",
+      "size": 881
+    },
+    {
+      "path": "navis/2022/Images/Talan32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.Images.Talan32.png",
+      "sha256": "ac456139ce08d8908d19407e935f5a92ef103c80bfe2d4d603098ea85d0486c5",
+      "size": 1264
+    },
+    {
+      "path": "navis/2022/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "navis/2022/ru-RU/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.ru-RU.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2022/ru-RU/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.ru-RU.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2022/TalanNw.Batch.exe",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.TalanNw.Batch.exe",
+      "sha256": "2fbf71492cfcb452f6fed80f4f9014da4b08fddb8cb02b0d71e76dc547121345",
+      "size": 31232,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2022/TalanNw.Batch.exe.config",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.TalanNw.Batch.exe.config",
+      "sha256": "051099983b896673909e01a1f631b6652abb88da95c9f06f3efef4be033091fa",
+      "size": 174
+    },
+    {
+      "path": "navis/2022/template.txt",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.template.txt",
+      "sha256": "60e4ee491e5f83c16b85ac8fa15b32bc1cc88b735581f842fcd25d21063ef472",
+      "size": 162
+    },
+    {
+      "path": "navis/2022/TNovPro.Issues.Navisworks.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2022.TNovPro.Issues.Navisworks.dll",
+      "sha256": "2de6653726aac11698a892d322294a828b8bc551a944ea256565935e1833e33e",
+      "size": 317952,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2023/en-US/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.en-US.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2023/en-US/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.en-US.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2023/Images/Issues16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.Images.Issues16.png",
+      "sha256": "9af81432a7461c512102b98150416b950879fe765b77026804b12f943551c935",
+      "size": 953
+    },
+    {
+      "path": "navis/2023/Images/Issues32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.Images.Issues32.png",
+      "sha256": "d587bfc162b0de60917b3a679fbf2a79182bd42f5abb29bb83100f6e8a906d72",
+      "size": 1672
+    },
+    {
+      "path": "navis/2023/Images/Talan16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.Images.Talan16.png",
+      "sha256": "e2e551e2a60177724bbd038c1a4789e4bdbf6a20638344039ce5ca9e80c84b8b",
+      "size": 881
+    },
+    {
+      "path": "navis/2023/Images/Talan32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.Images.Talan32.png",
+      "sha256": "ac456139ce08d8908d19407e935f5a92ef103c80bfe2d4d603098ea85d0486c5",
+      "size": 1264
+    },
+    {
+      "path": "navis/2023/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "navis/2023/ru-RU/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.ru-RU.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2023/ru-RU/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.ru-RU.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2023/TalanNw.Batch.exe",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.TalanNw.Batch.exe",
+      "sha256": "2fbf71492cfcb452f6fed80f4f9014da4b08fddb8cb02b0d71e76dc547121345",
+      "size": 31232,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2023/TalanNw.Batch.exe.config",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.TalanNw.Batch.exe.config",
+      "sha256": "051099983b896673909e01a1f631b6652abb88da95c9f06f3efef4be033091fa",
+      "size": 174
+    },
+    {
+      "path": "navis/2023/template.txt",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.template.txt",
+      "sha256": "60e4ee491e5f83c16b85ac8fa15b32bc1cc88b735581f842fcd25d21063ef472",
+      "size": 162
+    },
+    {
+      "path": "navis/2023/TNovPro.Issues.Navisworks.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2023.TNovPro.Issues.Navisworks.dll",
+      "sha256": "b56225c80891e430d9bb1f62e22c49da6daf8d67aa9992d2691a567a01e32768",
+      "size": 317952,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2024/en-US/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.en-US.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2024/en-US/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.en-US.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2024/Images/Issues16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.Images.Issues16.png",
+      "sha256": "9af81432a7461c512102b98150416b950879fe765b77026804b12f943551c935",
+      "size": 953
+    },
+    {
+      "path": "navis/2024/Images/Issues32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.Images.Issues32.png",
+      "sha256": "d587bfc162b0de60917b3a679fbf2a79182bd42f5abb29bb83100f6e8a906d72",
+      "size": 1672
+    },
+    {
+      "path": "navis/2024/Images/Talan16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.Images.Talan16.png",
+      "sha256": "e2e551e2a60177724bbd038c1a4789e4bdbf6a20638344039ce5ca9e80c84b8b",
+      "size": 881
+    },
+    {
+      "path": "navis/2024/Images/Talan32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.Images.Talan32.png",
+      "sha256": "ac456139ce08d8908d19407e935f5a92ef103c80bfe2d4d603098ea85d0486c5",
+      "size": 1264
+    },
+    {
+      "path": "navis/2024/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "navis/2024/ru-RU/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.ru-RU.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2024/ru-RU/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.ru-RU.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2024/TalanNw.Batch.exe",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.TalanNw.Batch.exe",
+      "sha256": "2fbf71492cfcb452f6fed80f4f9014da4b08fddb8cb02b0d71e76dc547121345",
+      "size": 31232,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2024/TalanNw.Batch.exe.config",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.TalanNw.Batch.exe.config",
+      "sha256": "051099983b896673909e01a1f631b6652abb88da95c9f06f3efef4be033091fa",
+      "size": 174
+    },
+    {
+      "path": "navis/2024/template.txt",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.template.txt",
+      "sha256": "60e4ee491e5f83c16b85ac8fa15b32bc1cc88b735581f842fcd25d21063ef472",
+      "size": 162
+    },
+    {
+      "path": "navis/2024/TNovPro.Issues.Navisworks.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2024.TNovPro.Issues.Navisworks.dll",
+      "sha256": "da1d248b843174c4f94fabea1092f1d7c6c1097fbeee3d15556a62f0c91ae583",
+      "size": 317952,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2025/en-US/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.en-US.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2025/en-US/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.en-US.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2025/Images/Issues16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.Images.Issues16.png",
+      "sha256": "9af81432a7461c512102b98150416b950879fe765b77026804b12f943551c935",
+      "size": 953
+    },
+    {
+      "path": "navis/2025/Images/Issues32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.Images.Issues32.png",
+      "sha256": "d587bfc162b0de60917b3a679fbf2a79182bd42f5abb29bb83100f6e8a906d72",
+      "size": 1672
+    },
+    {
+      "path": "navis/2025/Images/Talan16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.Images.Talan16.png",
+      "sha256": "e2e551e2a60177724bbd038c1a4789e4bdbf6a20638344039ce5ca9e80c84b8b",
+      "size": 881
+    },
+    {
+      "path": "navis/2025/Images/Talan32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.Images.Talan32.png",
+      "sha256": "ac456139ce08d8908d19407e935f5a92ef103c80bfe2d4d603098ea85d0486c5",
+      "size": 1264
+    },
+    {
+      "path": "navis/2025/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "navis/2025/ru-RU/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.ru-RU.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2025/ru-RU/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.ru-RU.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2025/TalanNw.Batch.exe",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.TalanNw.Batch.exe",
+      "sha256": "2fbf71492cfcb452f6fed80f4f9014da4b08fddb8cb02b0d71e76dc547121345",
+      "size": 31232,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2025/TalanNw.Batch.exe.config",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.TalanNw.Batch.exe.config",
+      "sha256": "051099983b896673909e01a1f631b6652abb88da95c9f06f3efef4be033091fa",
+      "size": 174
+    },
+    {
+      "path": "navis/2025/template.txt",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.template.txt",
+      "sha256": "60e4ee491e5f83c16b85ac8fa15b32bc1cc88b735581f842fcd25d21063ef472",
+      "size": 162
+    },
+    {
+      "path": "navis/2025/TNovPro.Issues.Navisworks.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2025.TNovPro.Issues.Navisworks.dll",
+      "sha256": "4e44283c00fce7c883aee8c54d06eba754c8c0078ff7c9c96fdbc62adc9310b7",
+      "size": 317952,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2026/en-US/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.en-US.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2026/en-US/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.en-US.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2026/Images/Issues16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.Images.Issues16.png",
+      "sha256": "9af81432a7461c512102b98150416b950879fe765b77026804b12f943551c935",
+      "size": 953
+    },
+    {
+      "path": "navis/2026/Images/Issues32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.Images.Issues32.png",
+      "sha256": "d587bfc162b0de60917b3a679fbf2a79182bd42f5abb29bb83100f6e8a906d72",
+      "size": 1672
+    },
+    {
+      "path": "navis/2026/Images/Talan16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.Images.Talan16.png",
+      "sha256": "e2e551e2a60177724bbd038c1a4789e4bdbf6a20638344039ce5ca9e80c84b8b",
+      "size": 881
+    },
+    {
+      "path": "navis/2026/Images/Talan32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.Images.Talan32.png",
+      "sha256": "ac456139ce08d8908d19407e935f5a92ef103c80bfe2d4d603098ea85d0486c5",
+      "size": 1264
+    },
+    {
+      "path": "navis/2026/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "navis/2026/ru-RU/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.ru-RU.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2026/ru-RU/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.ru-RU.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2026/TalanNw.Batch.exe",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.TalanNw.Batch.exe",
+      "sha256": "2fbf71492cfcb452f6fed80f4f9014da4b08fddb8cb02b0d71e76dc547121345",
+      "size": 31232,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2026/TalanNw.Batch.exe.config",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.TalanNw.Batch.exe.config",
+      "sha256": "051099983b896673909e01a1f631b6652abb88da95c9f06f3efef4be033091fa",
+      "size": 174
+    },
+    {
+      "path": "navis/2026/template.txt",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.template.txt",
+      "sha256": "60e4ee491e5f83c16b85ac8fa15b32bc1cc88b735581f842fcd25d21063ef472",
+      "size": 162
+    },
+    {
+      "path": "navis/2026/TNovPro.Issues.Navisworks.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2026.TNovPro.Issues.Navisworks.dll",
+      "sha256": "c9f3ecf68bce4b6bccd0544e0eedf732e83b5f4e7605e3963fad5af0de50a5cc",
+      "size": 317952,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2027/en-US/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.en-US.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2027/en-US/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.en-US.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2027/Images/Issues16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.Images.Issues16.png",
+      "sha256": "9af81432a7461c512102b98150416b950879fe765b77026804b12f943551c935",
+      "size": 953
+    },
+    {
+      "path": "navis/2027/Images/Issues32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.Images.Issues32.png",
+      "sha256": "d587bfc162b0de60917b3a679fbf2a79182bd42f5abb29bb83100f6e8a906d72",
+      "size": 1672
+    },
+    {
+      "path": "navis/2027/Images/Talan16.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.Images.Talan16.png",
+      "sha256": "e2e551e2a60177724bbd038c1a4789e4bdbf6a20638344039ce5ca9e80c84b8b",
+      "size": 881
+    },
+    {
+      "path": "navis/2027/Images/Talan32.png",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.Images.Talan32.png",
+      "sha256": "ac456139ce08d8908d19407e935f5a92ef103c80bfe2d4d603098ea85d0486c5",
+      "size": 1264
+    },
+    {
+      "path": "navis/2027/Newtonsoft.Json.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.Newtonsoft.Json.dll",
+      "sha256": "e1e27af7b07eeedf5ce71a9255f0422816a6fc5849a483c6714e1b472044fa9d",
+      "size": 711952,
+      "version": "13.0.3+0a2e291c0d9c0c7675d445703e51750363a549ef"
+    },
+    {
+      "path": "navis/2027/ru-RU/TNovRibbon.name",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.ru-RU.TNovRibbon.name",
+      "sha256": "73e3601f7d48b67372ae118c0427e6719d34f9852be2e2933a577d8141df9ca9",
+      "size": 596
+    },
+    {
+      "path": "navis/2027/ru-RU/TNovRibbon.xaml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.ru-RU.TNovRibbon.xaml",
+      "sha256": "d13c3bc31920ebff81672ca26e15c57e1b527630b0de0ce6a16f93e69b911634",
+      "size": 1667
+    },
+    {
+      "path": "navis/2027/TalanNw.Batch.exe",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.TalanNw.Batch.exe",
+      "sha256": "2fbf71492cfcb452f6fed80f4f9014da4b08fddb8cb02b0d71e76dc547121345",
+      "size": 31232,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/2027/TalanNw.Batch.exe.config",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.TalanNw.Batch.exe.config",
+      "sha256": "051099983b896673909e01a1f631b6652abb88da95c9f06f3efef4be033091fa",
+      "size": 174
+    },
+    {
+      "path": "navis/2027/template.txt",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.template.txt",
+      "sha256": "60e4ee491e5f83c16b85ac8fa15b32bc1cc88b735581f842fcd25d21063ef472",
+      "size": 162
+    },
+    {
+      "path": "navis/2027/TNovPro.Issues.Navisworks.dll",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.2027.TNovPro.Issues.Navisworks.dll",
+      "sha256": "c8911a4aa8963fd951d65cb78cec16727b4a9babeacf9d363be635bbd38ba02f",
+      "size": 317952,
+      "version": "0.7.0"
+    },
+    {
+      "path": "navis/PackageContents.xml",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-150043/navis.PackageContents.xml",
+      "sha256": "aef1b6feab3165ee9e2a0e1c754ae8e8422c446c4c30370a88689728d2e203fb",
+      "size": 3004
     },
     {
       "path": "releases",
