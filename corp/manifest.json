@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.10.30-164104",
-  "generated": "2026-10-30T11:41:16.4653474Z",
+  "release": "r2026.11.02-091841",
+  "generated": "2026-11-02T04:18:53.0861478Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -139,10 +139,10 @@
     },
     {
       "path": "2022/TNov/TNovViewsSheets.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.29-161420/2022.TNov.TNovViewsSheets.dll",
-      "sha256": "2ebb837022ea77f76fe6a2b47a1b6e7fd42702b5eb86177f4faf2729f114c0aa",
-      "size": 1183232,
-      "version": "2.26.1029.955"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-091841/2022.TNov.TNovViewsSheets.dll",
+      "sha256": "88bccd9e9b9edcbea1d08dd704d11cd1de457d32aeea920501efdf288abc2595",
+      "size": 1185792,
+      "version": "2.26.1102.553"
     },
     {
       "path": "2027/TNov/Npgsql.dll",
@@ -272,10 +272,10 @@
     },
     {
       "path": "2027/TNov/TNovViewsSheets.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.29-161420/2027.TNov.TNovViewsSheets.dll",
-      "sha256": "5c0ccee5847712ad376d5129ba6a2c9438c356427c86f485c8ef1aa30731d6da",
-      "size": 1177088,
-      "version": "2.26.1029.955"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-091841/2027.TNov.TNovViewsSheets.dll",
+      "sha256": "40617abe920b4a4ebd5cdbc45a3120f1bcdaefb3ad4b2020e162675f8c9394b9",
+      "size": 1179648,
+      "version": "2.26.1102.554"
     },
     {
       "path": "acad/PackageContents.xml",
@@ -569,9 +569,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.30-105608/releases",
-      "sha256": "8b4705f538c88a5610d1fe232bf5341896d514a3a799ff5b0f03ef661a22e198",
-      "size": 76582
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-091841/releases",
+      "sha256": "abbc19799ef985d1510f357561c2866a3293f8ddfb30ae49d66c0dcb2f1c7c9e",
+      "size": 76881
     }
   ]
 }
