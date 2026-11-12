@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.11-125050",
-  "generated": "2026-11-11T07:50:56.6844177Z",
+  "release": "r2026.11.12-092456",
+  "generated": "2026-11-12T04:25:10.6036866Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -20,10 +20,10 @@
     },
     {
       "path": "2022/TNov/TNov.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.03-124119/2022.TNov.TNov.dll",
-      "sha256": "ce02e3a68d67ae2fad0b43fb79d7cf3e60e3b549c587782e565196e79329a95e",
-      "size": 790016,
-      "version": "5.26.1103.740"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-092456/2022.TNov.TNov.dll",
+      "sha256": "283559f7184a0a4ed9aa10c2f99684a75963a3f30c4b4e46eaa1a658b464cedb",
+      "size": 794112,
+      "version": "5.26.1112.532"
     },
     {
       "path": "2022/TNov/TNovApi.Client.dll",
@@ -153,10 +153,10 @@
     },
     {
       "path": "2027/TNov/TNov.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.03-124119/2027.TNov.TNov.dll",
-      "sha256": "339bdae5ddd8c4a1e9c2e020834276344d8e8d5412fe0e029793ad5c3492daa0",
-      "size": 796160,
-      "version": "5.26.1103.740"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-092456/2027.TNov.TNov.dll",
+      "sha256": "bf783dff7e5ad60b42d86284a28d1d8cf4f924d82ac6303a853a4cf380112db2",
+      "size": 800768,
+      "version": "5.26.1112.532"
     },
     {
       "path": "2027/TNov/TNovApi.Client.dll",
@@ -376,10 +376,10 @@
     },
     {
       "path": "acad/R24/TNovCAD.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-153248/acad.R24.TNovCAD.dll",
-      "sha256": "ba5992119f4629306cc1f31992d40bb90cf70f21f3ec472501ab349c57e5a5e0",
-      "size": 244736,
-      "version": "5.26.1027.927"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-092456/acad.R24.TNovCAD.dll",
+      "sha256": "ac9fab7e1c46121605434766509c58bcfdc7358ff5247192c8e455c3edc5d9a4",
+      "size": 248832,
+      "version": "5.26.1112.556"
     },
     {
       "path": "acad/R25/Microsoft.CodeAnalysis.CSharp.dll",
@@ -424,10 +424,10 @@
     },
     {
       "path": "acad/R25/TNovCAD.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-153248/acad.R25.TNovCAD.dll",
-      "sha256": "79aff09bf4499b7473030afc50afe3c931ecee6740f607f0809ef7a2849beae4",
-      "size": 247296,
-      "version": "5.26.1027.927"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-092456/acad.R25.TNovCAD.dll",
+      "sha256": "2be24b46c8adb131101679f075be0e32d2fcb43e096722897d428fe00434285f",
+      "size": 251392,
+      "version": "5.26.1112.556"
     },
     {
       "path": "acad/R26/Microsoft.CodeAnalysis.CSharp.dll",
@@ -472,10 +472,10 @@
     },
     {
       "path": "acad/R26/TNovCAD.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.10.27-153248/acad.R26.TNovCAD.dll",
-      "sha256": "ce644160a44c95169f3a080a063902d772d20f07f5f99a35cc6da18285f14b65",
-      "size": 247808,
-      "version": "5.26.1027.927"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-092456/acad.R26.TNovCAD.dll",
+      "sha256": "4b3e0b37d8b809998d5c6515272102eed1f165b433c19f878b8868ad3629de99",
+      "size": 251904,
+      "version": "5.26.1112.556"
     },
     {
       "path": "addin/TNov.addin",
@@ -1223,9 +1223,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.11-125050/releases",
-      "sha256": "f011f4cedca6c973293b36f44e8b42600ff3b1a6e8d25f26fff6a4287d4b6abb",
-      "size": 78374
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-092456/releases",
+      "sha256": "77391fd25f48a60c43c3f6c4cc1158c184cbf1a5bbbc458f22fc8379d78b7dbb",
+      "size": 78490
     }
   ]
 }
