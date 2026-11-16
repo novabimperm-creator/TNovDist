@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.16-112109",
-  "generated": "2026-11-16T06:21:15.2335738Z",
+  "release": "r2026.11.16-124510",
+  "generated": "2026-11-16T07:45:16.1366176Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -20,10 +20,10 @@
     },
     {
       "path": "2022/TNov/TNov.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-165914/2022.TNov.TNov.dll",
-      "sha256": "ef0629262dc879d85be05173c326c7cd61a333f67dab1f009db4d4610b1ebf5d",
-      "size": 796672,
-      "version": "5.26.1112.978"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.16-124510/2022.TNov.TNov.dll",
+      "sha256": "3cdc617c7cd6a2709717c5dc58a7f0ce2b20f47dd7c4485a10aa9d8e1ef657ff",
+      "size": 799232,
+      "version": "5.26.1116.703"
     },
     {
       "path": "2022/TNov/TNovApi.Client.dll",
@@ -153,10 +153,10 @@
     },
     {
       "path": "2027/TNov/TNov.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-165914/2027.TNov.TNov.dll",
-      "sha256": "2ca4a432d57c5903cb68b45a428c0acf16f162eb355eecba25457526130bee21",
-      "size": 803328,
-      "version": "5.26.1112.979"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.16-124510/2027.TNov.TNov.dll",
+      "sha256": "29fbeb472fe776f3fa5b5559b4523311841d34810566bea4888aca11193d2034",
+      "size": 805888,
+      "version": "5.26.1116.704"
     },
     {
       "path": "2027/TNov/TNovApi.Client.dll",
@@ -1223,9 +1223,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.16-112109/releases",
-      "sha256": "6fbc91fc2c4e0084002e1e3467e582f603702154715c7dc19a628111af70c87f",
-      "size": 79028
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.16-124510/releases",
+      "sha256": "5154b9cfa6d77122681eaee55350ab693c91af9019638a842f0102498a322bfe",
+      "size": 79168
     }
   ]
 }
