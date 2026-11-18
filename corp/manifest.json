@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.16-124510",
-  "generated": "2026-11-16T07:45:16.1366176Z",
+  "release": "r2026.11.18-112933",
+  "generated": "2026-11-18T06:29:38.4981618Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -69,10 +69,10 @@
     },
     {
       "path": "2022/TNov/TNovMEPSpec.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-165914/2022.TNov.TNovMEPSpec.dll",
-      "sha256": "feb0b0d51640023055d1d25b6794c6000059721618e3ca5dd1a5494a8e9aad5a",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.18-112933/2022.TNov.TNovMEPSpec.dll",
+      "sha256": "364cf163fdd1d10df0a7eea862569946375e51bb51cd6a0f06202bb3a59ccfa0",
       "size": 580096,
-      "version": "2.26.1112.984"
+      "version": "2.26.1118.618"
     },
     {
       "path": "2022/TNov/TNovParking.dll",
@@ -202,10 +202,10 @@
     },
     {
       "path": "2027/TNov/TNovMEPSpec.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.12-165914/2027.TNov.TNovMEPSpec.dll",
-      "sha256": "d24cc080b142a3252eb670cf7724fe4cdfbadd8345b85c6c895dc49732baf59b",
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.18-112933/2027.TNov.TNovMEPSpec.dll",
+      "sha256": "fbef07a4800af1f5f9f1f598d3f09f551d1118dbb35cf5f4e636c5a9663ed817",
       "size": 573440,
-      "version": "2.26.1112.985"
+      "version": "2.26.1118.618"
     },
     {
       "path": "2027/TNov/TNovParking.dll",
