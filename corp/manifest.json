@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.18-160804",
-  "generated": "2026-11-18T11:08:11.4242347Z",
+  "release": "r2026.11.19-111612",
+  "generated": "2026-11-19T06:16:18.8830897Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -118,10 +118,10 @@
     },
     {
       "path": "2022/TNov/TNovUtilsAR.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-144459/2022.TNov.TNovUtilsAR.dll",
-      "sha256": "199680c357d2fa75d693753a5cb0b084baca15d4285dedabb96be302dd90f39c",
-      "size": 526848,
-      "version": "1.26.1102.878"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.19-111612/2022.TNov.TNovUtilsAR.dll",
+      "sha256": "af026beff9f72698253a05c521d7e1de08fa8670a10736219ad2cb50ab886ed0",
+      "size": 527872,
+      "version": "1.26.1119.582"
     },
     {
       "path": "2022/TNov/TNovUtilsST.dll",
@@ -251,10 +251,10 @@
     },
     {
       "path": "2027/TNov/TNovUtilsAR.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.02-144459/2027.TNov.TNovUtilsAR.dll",
-      "sha256": "6b9ec55107a0e51d3c6843b67da1bee79c3c2d6de6c76bd63adc372db4d125a5",
-      "size": 532992,
-      "version": "1.26.1102.878"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.19-111612/2027.TNov.TNovUtilsAR.dll",
+      "sha256": "e185f2b31a62b1a00d9dd83c33acc98d37007b688df5ed0e42234bdb1253d5fb",
+      "size": 534016,
+      "version": "1.26.1119.583"
     },
     {
       "path": "2027/TNov/TNovUtilsST.dll",
@@ -1223,9 +1223,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.18-160804/releases",
-      "sha256": "bcbad349a1b4093cd388c340c11f3c7c51d3f9065a9c66253942b8c74566e6ef",
-      "size": 79726
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.19-111612/releases",
+      "sha256": "9b4bd68035dc79e17ea6f86b6e4866f245f5bf5bcac1fc6c2dc02168e409fb0e",
+      "size": 79916
     }
   ]
 }
