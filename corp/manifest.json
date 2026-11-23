@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.23-134232",
-  "generated": "2026-11-23T08:42:39.8654776Z",
+  "release": "r2026.11.23-141830",
+  "generated": "2026-11-23T09:18:30.2281314Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -505,29 +505,29 @@
     },
     {
       "path": "client/TNovClient.deps.json",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/dcc6e7d642a7a4a9e3c578c44bc454845707cc083d84e934318080c6b53ba48c",
-      "sha256": "dcc6e7d642a7a4a9e3c578c44bc454845707cc083d84e934318080c6b53ba48c",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/aabc2e9b3ca2d9fa096e85102bc76231788532c053ac463c34bb1cec56605866",
+      "sha256": "aabc2e9b3ca2d9fa096e85102bc76231788532c053ac463c34bb1cec56605866",
       "size": 1667
     },
     {
       "path": "client/TNovClient.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/11660fa5917567336367b9ab23f49197068243d29a0bbb461b1542ad344c749b",
-      "sha256": "11660fa5917567336367b9ab23f49197068243d29a0bbb461b1542ad344c749b",
-      "size": 195584,
-      "version": "2.10.0+a3246034f84a1395977488abb07b5a901ee2899b"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/7e1ea59609c0b5493d8331ab9f564be9ac1b257a1932f26ff5d1751fc7a32537",
+      "sha256": "7e1ea59609c0b5493d8331ab9f564be9ac1b257a1932f26ff5d1751fc7a32537",
+      "size": 213504,
+      "version": "2.11.0+f7ed3312d78f5049fb5cfc07205d220326e7b9ec"
     },
     {
       "path": "client/TNovClient.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/ba3f954e4555e928945ff083c7a242f95574ace7c673c5f54ec62fc2a7816bef",
-      "sha256": "ba3f954e4555e928945ff083c7a242f95574ace7c673c5f54ec62fc2a7816bef",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/2f0dfe9a3d330ee9cd1ce6d82ea0a437750a54b6a2c1e38a7ffd044e79130e65",
+      "sha256": "2f0dfe9a3d330ee9cd1ce6d82ea0a437750a54b6a2c1e38a7ffd044e79130e65",
       "size": 162304,
-      "version": "2.10.0+a3246034f84a1395977488abb07b5a901ee2899b"
+      "version": "2.11.0+f7ed3312d78f5049fb5cfc07205d220326e7b9ec"
     },
     {
       "path": "client/TNovClient.pdb",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/d4f9fd22bec76722673aaa22d17ae5901a8bd0efd5adc17d1f20d6d259baef86",
-      "sha256": "d4f9fd22bec76722673aaa22d17ae5901a8bd0efd5adc17d1f20d6d259baef86",
-      "size": 445952
+      "url": "https://tnov.pm-nova.ru/dist/blobs/0380e96d00769ed367326f3519f17b529b113d70ebb6df86a065937b0a530605",
+      "sha256": "0380e96d00769ed367326f3519f17b529b113d70ebb6df86a065937b0a530605",
+      "size": 474624
     },
     {
       "path": "client/TNovClient.runtimeconfig.json",
@@ -543,23 +543,23 @@
     },
     {
       "path": "client/TNovClient.Updater.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/b62813f0e74e8e2cf68cd2a8542a51b3ce5ba4a1dd75ba13d0b0e026b4ea3e0a",
-      "sha256": "b62813f0e74e8e2cf68cd2a8542a51b3ce5ba4a1dd75ba13d0b0e026b4ea3e0a",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/b6dc1af0be9f1299d4f0619347ed1b50f3c3ada7a5da8ca2cbbeb0650328a38f",
+      "sha256": "b6dc1af0be9f1299d4f0619347ed1b50f3c3ada7a5da8ca2cbbeb0650328a38f",
       "size": 8192,
-      "version": "2.2.0+a3246034f84a1395977488abb07b5a901ee2899b"
+      "version": "2.2.0+f7ed3312d78f5049fb5cfc07205d220326e7b9ec"
     },
     {
       "path": "client/TNovClient.Updater.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/f387bbec3cadb8f539ecfd6c73aeb8d5b3b5157898fd1c9fb658bb8e7217cb25",
-      "sha256": "f387bbec3cadb8f539ecfd6c73aeb8d5b3b5157898fd1c9fb658bb8e7217cb25",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/c6520e29a719d4934a1bfd6f4f1bc22a9c996dda4ae04c6c8dd8ca81b5dd3649",
+      "sha256": "c6520e29a719d4934a1bfd6f4f1bc22a9c996dda4ae04c6c8dd8ca81b5dd3649",
       "size": 162816,
-      "version": "2.2.0+a3246034f84a1395977488abb07b5a901ee2899b"
+      "version": "2.2.0+f7ed3312d78f5049fb5cfc07205d220326e7b9ec"
     },
     {
       "path": "client/TNovClient.Updater.pdb",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/cfecd04f3fdc5f34910470036e3975851e6a5f2b97a3a44220e1a785d0859ed7",
-      "sha256": "cfecd04f3fdc5f34910470036e3975851e6a5f2b97a3a44220e1a785d0859ed7",
-      "size": 12808
+      "url": "https://tnov.pm-nova.ru/dist/blobs/e24b03d9a04841b608dc4fa05656005672fdfae6cc21c020656b67804daa3519",
+      "sha256": "e24b03d9a04841b608dc4fa05656005672fdfae6cc21c020656b67804daa3519",
+      "size": 12956
     },
     {
       "path": "client/TNovClient.Updater.runtimeconfig.json",
