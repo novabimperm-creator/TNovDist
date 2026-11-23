@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.20-160448",
-  "generated": "2026-11-20T11:04:54.2254233Z",
+  "release": "r2026.11.23-114545",
+  "generated": "2026-11-23T06:45:51.4306176Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -139,10 +139,10 @@
     },
     {
       "path": "2022/TNov/TNovViewsSheets.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.20-160448/2022.TNov.TNovViewsSheets.dll",
-      "sha256": "4df9085b47864447d54c28b9c364da8341285642f5cd1567fbb9d8924a9ce975",
-      "size": 1210880,
-      "version": "2.26.1120.958"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.23-114545/2022.TNov.TNovViewsSheets.dll",
+      "sha256": "0da5c68a3040e244d031a12250c8c0cb1a32e4010f4196630e849b8605abd34a",
+      "size": 1216512,
+      "version": "2.26.1123.682"
     },
     {
       "path": "2027/TNov/Npgsql.dll",
@@ -272,10 +272,10 @@
     },
     {
       "path": "2027/TNov/TNovViewsSheets.dll",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.20-160448/2027.TNov.TNovViewsSheets.dll",
-      "sha256": "54087705aafc55eae79decdc6947194e7cf17b16ebe33e7a668895f83b7fa54c",
-      "size": 1204736,
-      "version": "2.26.1120.958"
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.23-114545/2027.TNov.TNovViewsSheets.dll",
+      "sha256": "de4cd441a61ea02798bc385cdf3f52133d5e3397c34ddb7cf5f5d4d07c94aa18",
+      "size": 1210368,
+      "version": "2.26.1123.682"
     },
     {
       "path": "acad/PackageContents.xml",
@@ -1223,9 +1223,9 @@
     },
     {
       "path": "releases",
-      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.20-160448/releases",
-      "sha256": "9c4645fc4544fb0a85606103df4148ca03ed62d365835e775a3ccd57fc9c996d",
-      "size": 80912
+      "url": "https://github.com/novabimperm-creator/TNovDist/releases/download/r2026.11.23-114545/releases",
+      "sha256": "72ff23e3e8a52d2137b9f05b35e5ac052fc29a9a5e1ad139b78f43f7b987bc79",
+      "size": 81238
     }
   ]
 }
