@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.26-093552",
-  "generated": "2026-11-26T04:35:52.6308932Z",
+  "release": "r2026.11.26-155749",
+  "generated": "2026-11-26T10:57:49.7156664Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -125,10 +125,10 @@
     },
     {
       "path": "2022/TNov/TNovUtilsST.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/02fa4dcb92e804550584c86a0dfe9dd6b3f1be5b5cb0f1f44e84549eaef10bec",
-      "sha256": "02fa4dcb92e804550584c86a0dfe9dd6b3f1be5b5cb0f1f44e84549eaef10bec",
-      "size": 74240,
-      "version": "1.26.1029.955"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/bc4124dcd55fdfed885f7ca5cb35579957c0f04b67990fd9bf6a4249fe110239",
+      "sha256": "bc4124dcd55fdfed885f7ca5cb35579957c0f04b67990fd9bf6a4249fe110239",
+      "size": 87040,
+      "version": "1.26.1126.916"
     },
     {
       "path": "2022/TNov/TNovVent.dll",
@@ -258,10 +258,10 @@
     },
     {
       "path": "2027/TNov/TNovUtilsST.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/4e3aa2611735e8b7d6319630c559761cb2e42231a31a3f8b72a366bc42fb7d4f",
-      "sha256": "4e3aa2611735e8b7d6319630c559761cb2e42231a31a3f8b72a366bc42fb7d4f",
-      "size": 75264,
-      "version": "1.26.1029.955"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/cc8c0d111554a7e8840a6eec49561505e3ea6c12c5dcd34a60fdf4d433f2333e",
+      "sha256": "cc8c0d111554a7e8840a6eec49561505e3ea6c12c5dcd34a60fdf4d433f2333e",
+      "size": 87552,
+      "version": "1.26.1126.915"
     },
     {
       "path": "2027/TNov/TNovVent.dll",
@@ -624,8 +624,8 @@
     },
     {
       "path": "navis/2020/TalanNw.Batch.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
-      "sha256": "367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
+      "sha256": "01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
       "size": 31232,
       "version": "0.9.0"
     },
@@ -643,10 +643,10 @@
     },
     {
       "path": "navis/2020/TNovPro.Issues.Navisworks.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/51cfd3ed9421d507da023254b5fdbfa4c9c61f22dd538ee4fd127c4dd70a28a1",
-      "sha256": "51cfd3ed9421d507da023254b5fdbfa4c9c61f22dd538ee4fd127c4dd70a28a1",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/3af1b03d377b0e07286e2bc2c5dbfc690725105d3fdc80e88d784d0c9d567d6f",
+      "sha256": "3af1b03d377b0e07286e2bc2c5dbfc690725105d3fdc80e88d784d0c9d567d6f",
       "size": 363008,
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "path": "navis/2021/en-US/TNovRibbon.name",
@@ -705,8 +705,8 @@
     },
     {
       "path": "navis/2021/TalanNw.Batch.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
-      "sha256": "367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
+      "sha256": "01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
       "size": 31232,
       "version": "0.9.0"
     },
@@ -724,10 +724,10 @@
     },
     {
       "path": "navis/2021/TNovPro.Issues.Navisworks.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/11b07dd725f4c656b4444203a23a30cfc7fef82943c900eb423ac047c561cf7a",
-      "sha256": "11b07dd725f4c656b4444203a23a30cfc7fef82943c900eb423ac047c561cf7a",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/2b21a205f8ffcc57932bd96b4217783c8d2bd3e4a89aeee7f33c84c8566585bc",
+      "sha256": "2b21a205f8ffcc57932bd96b4217783c8d2bd3e4a89aeee7f33c84c8566585bc",
       "size": 363008,
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "path": "navis/2022/en-US/TNovRibbon.name",
@@ -786,8 +786,8 @@
     },
     {
       "path": "navis/2022/TalanNw.Batch.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
-      "sha256": "367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
+      "sha256": "01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
       "size": 31232,
       "version": "0.9.0"
     },
@@ -805,10 +805,10 @@
     },
     {
       "path": "navis/2022/TNovPro.Issues.Navisworks.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/df8ba76ea2ba548db80afda84fa31a9bea68d6a18da1a53dba2865ced75831bd",
-      "sha256": "df8ba76ea2ba548db80afda84fa31a9bea68d6a18da1a53dba2865ced75831bd",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/9ca77cc576e81b01aad0cc9d16ebdf2db7697540e0be93773af957a550646587",
+      "sha256": "9ca77cc576e81b01aad0cc9d16ebdf2db7697540e0be93773af957a550646587",
       "size": 363008,
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "path": "navis/2023/en-US/TNovRibbon.name",
@@ -867,8 +867,8 @@
     },
     {
       "path": "navis/2023/TalanNw.Batch.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
-      "sha256": "367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
+      "sha256": "01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
       "size": 31232,
       "version": "0.9.0"
     },
@@ -886,10 +886,10 @@
     },
     {
       "path": "navis/2023/TNovPro.Issues.Navisworks.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/8bad5b8cac95069dede818dcea44e758d263dfedea2f3e6cdafa1d6af6618e2c",
-      "sha256": "8bad5b8cac95069dede818dcea44e758d263dfedea2f3e6cdafa1d6af6618e2c",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/db8fec105112c9f1d57f0e9a53e9a1478a5fae7e0299301f5989ab6e000c15e3",
+      "sha256": "db8fec105112c9f1d57f0e9a53e9a1478a5fae7e0299301f5989ab6e000c15e3",
       "size": 363008,
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "path": "navis/2024/en-US/TNovRibbon.name",
@@ -948,8 +948,8 @@
     },
     {
       "path": "navis/2024/TalanNw.Batch.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
-      "sha256": "367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
+      "sha256": "01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
       "size": 31232,
       "version": "0.9.0"
     },
@@ -967,10 +967,10 @@
     },
     {
       "path": "navis/2024/TNovPro.Issues.Navisworks.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/feecbe54a793c8f269e0255abb8fc045555c060ab159605f1451d5a7ae908af6",
-      "sha256": "feecbe54a793c8f269e0255abb8fc045555c060ab159605f1451d5a7ae908af6",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/b6c4160ea9f01b5a08d91325accc678fb1c8e510b5843e3cd605cec22ff8207a",
+      "sha256": "b6c4160ea9f01b5a08d91325accc678fb1c8e510b5843e3cd605cec22ff8207a",
       "size": 363008,
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "path": "navis/2025/en-US/TNovRibbon.name",
@@ -1029,8 +1029,8 @@
     },
     {
       "path": "navis/2025/TalanNw.Batch.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
-      "sha256": "367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
+      "sha256": "01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
       "size": 31232,
       "version": "0.9.0"
     },
@@ -1048,10 +1048,10 @@
     },
     {
       "path": "navis/2025/TNovPro.Issues.Navisworks.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/12bebaf35bacc30e99f8cae0c7e997b0a55c1ae785094f49da27ae5b21bd5766",
-      "sha256": "12bebaf35bacc30e99f8cae0c7e997b0a55c1ae785094f49da27ae5b21bd5766",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/419efd93c6fbe4e3733e744e671e9050767329dfb5896127cce59bfef89c1379",
+      "sha256": "419efd93c6fbe4e3733e744e671e9050767329dfb5896127cce59bfef89c1379",
       "size": 363008,
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "path": "navis/2026/en-US/TNovRibbon.name",
@@ -1110,8 +1110,8 @@
     },
     {
       "path": "navis/2026/TalanNw.Batch.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
-      "sha256": "367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
+      "sha256": "01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
       "size": 31232,
       "version": "0.9.0"
     },
@@ -1129,10 +1129,10 @@
     },
     {
       "path": "navis/2026/TNovPro.Issues.Navisworks.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/72a8eceb33e8e9935ff3b023e8d95933d1534d32708b1de3089af471115b875d",
-      "sha256": "72a8eceb33e8e9935ff3b023e8d95933d1534d32708b1de3089af471115b875d",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/1115f3ccd497cc8d5e3bac796201d4c98d4353cab24bfb292d8f4f963e3a022d",
+      "sha256": "1115f3ccd497cc8d5e3bac796201d4c98d4353cab24bfb292d8f4f963e3a022d",
       "size": 363008,
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "path": "navis/2027/en-US/TNovRibbon.name",
@@ -1191,8 +1191,8 @@
     },
     {
       "path": "navis/2027/TalanNw.Batch.exe",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
-      "sha256": "367c21c2e729b5f51a903b8d1deff4c1b1ed85ed0878c9a3d01bb0ba2cc0ffe3",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
+      "sha256": "01a07b267f047eb5b2b30ef60dc81f40485ecd0f611a3993bef5bc803755805c",
       "size": 31232,
       "version": "0.9.0"
     },
@@ -1210,22 +1210,22 @@
     },
     {
       "path": "navis/2027/TNovPro.Issues.Navisworks.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/1632ce5a5836436becf8e7354d2101d38c5d3af74ebfda3ad9cbd706aca7c57d",
-      "sha256": "1632ce5a5836436becf8e7354d2101d38c5d3af74ebfda3ad9cbd706aca7c57d",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/6a95e2ba7a2ab8f11346917d008cf58d1df008486e81c4df09bca88dde5e00fe",
+      "sha256": "6a95e2ba7a2ab8f11346917d008cf58d1df008486e81c4df09bca88dde5e00fe",
       "size": 363520,
-      "version": "0.9.0"
+      "version": "0.9.1"
     },
     {
       "path": "navis/PackageContents.xml",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/a2909a3c516ce9173def3a9e0f730a82d3a6faeb3ac6b22137bb86b99b26468a",
-      "sha256": "a2909a3c516ce9173def3a9e0f730a82d3a6faeb3ac6b22137bb86b99b26468a",
+      "url": "https://tnov.pm-nova.ru/dist/blobs/4504d474899caa1069b12ab959e49242a74071b87423f9d3674fb30e6f08db2d",
+      "sha256": "4504d474899caa1069b12ab959e49242a74071b87423f9d3674fb30e6f08db2d",
       "size": 3004
     },
     {
       "path": "releases",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/71e851f93579d6e64627277666500aecf9499b3518e415f9072b8d9d41c0c3ad",
-      "sha256": "71e851f93579d6e64627277666500aecf9499b3518e415f9072b8d9d41c0c3ad",
-      "size": 81740
+      "url": "https://tnov.pm-nova.ru/dist/blobs/da70e45ed714879d8db083641d8cb582f6c5002e61943f7ae6bce831fffafc8f",
+      "sha256": "da70e45ed714879d8db083641d8cb582f6c5002e61943f7ae6bce831fffafc8f",
+      "size": 81953
     }
   ]
 }
