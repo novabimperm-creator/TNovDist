@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.23-141830",
-  "generated": "2026-11-23T09:18:30.2281314Z",
+  "release": "r2026.11.26-093552",
+  "generated": "2026-11-26T04:35:52.6308932Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -20,10 +20,10 @@
     },
     {
       "path": "2022/TNov/TNov.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/f30647977f61270eb9f9ec35ef97f505ccc98bb2359f6bd602889a632b6147be",
-      "sha256": "f30647977f61270eb9f9ec35ef97f505ccc98bb2359f6bd602889a632b6147be",
-      "size": 800256,
-      "version": "5.26.1118.618"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/30edf95ef9f3ac2376b64e0b75e99a6c89dbb113c7a545c8436aa22faa0ea27a",
+      "sha256": "30edf95ef9f3ac2376b64e0b75e99a6c89dbb113c7a545c8436aa22faa0ea27a",
+      "size": 809472,
+      "version": "5.26.1126.571"
     },
     {
       "path": "2022/TNov/TNovApi.Client.dll",
@@ -69,10 +69,10 @@
     },
     {
       "path": "2022/TNov/TNovMEPSpec.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/fed397692e3b0ef2b6862621fe16d2376d426239b140947faf614bfe7877c1a7",
-      "sha256": "fed397692e3b0ef2b6862621fe16d2376d426239b140947faf614bfe7877c1a7",
-      "size": 580608,
-      "version": "2.26.1118.957"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/52589ad00eb79f62e957d78f51a81c99a7c46a5e3ce82c5b0bc6fbded71beec4",
+      "sha256": "52589ad00eb79f62e957d78f51a81c99a7c46a5e3ce82c5b0bc6fbded71beec4",
+      "size": 585216,
+      "version": "2.26.1126.571"
     },
     {
       "path": "2022/TNov/TNovParking.dll",
@@ -118,10 +118,10 @@
     },
     {
       "path": "2022/TNov/TNovUtilsAR.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/af026beff9f72698253a05c521d7e1de08fa8670a10736219ad2cb50ab886ed0",
-      "sha256": "af026beff9f72698253a05c521d7e1de08fa8670a10736219ad2cb50ab886ed0",
-      "size": 527872,
-      "version": "1.26.1119.582"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/f9bb21029d51d8faedb447ba7f8e39fc5e0af66818e355945234a08ece6e87d0",
+      "sha256": "f9bb21029d51d8faedb447ba7f8e39fc5e0af66818e355945234a08ece6e87d0",
+      "size": 534016,
+      "version": "1.26.1126.571"
     },
     {
       "path": "2022/TNov/TNovUtilsST.dll",
@@ -132,10 +132,10 @@
     },
     {
       "path": "2022/TNov/TNovVent.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/cadd90459d647fafd9681f66dff69e9a98811e52f020ea556b6d282dcd1261f9",
-      "sha256": "cadd90459d647fafd9681f66dff69e9a98811e52f020ea556b6d282dcd1261f9",
-      "size": 930816,
-      "version": "1.26.1112.978"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/dc26fa01fc83a9ff88dedbd63d45481c2f670d2aa226c2e729da08ba3e66b3bd",
+      "sha256": "dc26fa01fc83a9ff88dedbd63d45481c2f670d2aa226c2e729da08ba3e66b3bd",
+      "size": 964096,
+      "version": "1.26.1126.571"
     },
     {
       "path": "2022/TNov/TNovViewsSheets.dll",
@@ -153,10 +153,10 @@
     },
     {
       "path": "2027/TNov/TNov.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/2fdfb82a2bd58ae855aefff3223aedc2e940028f6cbca0651d18fa192c846227",
-      "sha256": "2fdfb82a2bd58ae855aefff3223aedc2e940028f6cbca0651d18fa192c846227",
-      "size": 806400,
-      "version": "5.26.1118.618"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/2683cfde700096b56114a042a945e19a69514c4f0a53dab700feb5f41da990fe",
+      "sha256": "2683cfde700096b56114a042a945e19a69514c4f0a53dab700feb5f41da990fe",
+      "size": 816128,
+      "version": "5.26.1126.564"
     },
     {
       "path": "2027/TNov/TNovApi.Client.dll",
@@ -202,10 +202,10 @@
     },
     {
       "path": "2027/TNov/TNovMEPSpec.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/03be69504703d979c7a9c85fe18ed502c599155174b9a309014f228521a97767",
-      "sha256": "03be69504703d979c7a9c85fe18ed502c599155174b9a309014f228521a97767",
-      "size": 573952,
-      "version": "2.26.1118.958"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/0de28de9a407b873469851a6fa23c962949d62721788b0d4c53088565e0fd6b7",
+      "sha256": "0de28de9a407b873469851a6fa23c962949d62721788b0d4c53088565e0fd6b7",
+      "size": 578560,
+      "version": "2.26.1126.568"
     },
     {
       "path": "2027/TNov/TNovParking.dll",
@@ -251,10 +251,10 @@
     },
     {
       "path": "2027/TNov/TNovUtilsAR.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/e185f2b31a62b1a00d9dd83c33acc98d37007b688df5ed0e42234bdb1253d5fb",
-      "sha256": "e185f2b31a62b1a00d9dd83c33acc98d37007b688df5ed0e42234bdb1253d5fb",
-      "size": 534016,
-      "version": "1.26.1119.583"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/f76b63d8514eb3b5697e883762da00c2893694e9ff9a36790245fb8b09891296",
+      "sha256": "f76b63d8514eb3b5697e883762da00c2893694e9ff9a36790245fb8b09891296",
+      "size": 540160,
+      "version": "1.26.1126.564"
     },
     {
       "path": "2027/TNov/TNovUtilsST.dll",
@@ -265,10 +265,10 @@
     },
     {
       "path": "2027/TNov/TNovVent.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/0fc3769247b308fe1dc90d0e69095611f0166399d16602d6c9a2ffa40acf5b08",
-      "sha256": "0fc3769247b308fe1dc90d0e69095611f0166399d16602d6c9a2ffa40acf5b08",
-      "size": 935424,
-      "version": "1.26.1112.979"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/0ae5a2bdbd9c51e2e20c7eedb611241653fb133ca4f8509fddea9a0f4fcad8f7",
+      "sha256": "0ae5a2bdbd9c51e2e20c7eedb611241653fb133ca4f8509fddea9a0f4fcad8f7",
+      "size": 969216,
+      "version": "1.26.1126.568"
     },
     {
       "path": "2027/TNov/TNovViewsSheets.dll",
@@ -1223,9 +1223,9 @@
     },
     {
       "path": "releases",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/72ff23e3e8a52d2137b9f05b35e5ac052fc29a9a5e1ad139b78f43f7b987bc79",
-      "sha256": "72ff23e3e8a52d2137b9f05b35e5ac052fc29a9a5e1ad139b78f43f7b987bc79",
-      "size": 81238
+      "url": "https://tnov.pm-nova.ru/dist/blobs/71e851f93579d6e64627277666500aecf9499b3518e415f9072b8d9d41c0c3ad",
+      "sha256": "71e851f93579d6e64627277666500aecf9499b3518e415f9072b8d9d41c0c3ad",
+      "size": 81740
     }
   ]
 }
