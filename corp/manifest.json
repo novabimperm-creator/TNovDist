@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.26-155749",
-  "generated": "2026-11-26T10:57:49.7156664Z",
+  "release": "r2026.11.27-100432",
+  "generated": "2026-11-27T05:04:32.8193307Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -139,10 +139,10 @@
     },
     {
       "path": "2022/TNov/TNovViewsSheets.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/0da5c68a3040e244d031a12250c8c0cb1a32e4010f4196630e849b8605abd34a",
-      "sha256": "0da5c68a3040e244d031a12250c8c0cb1a32e4010f4196630e849b8605abd34a",
-      "size": 1216512,
-      "version": "2.26.1123.682"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/7a4bcf9bf4312cc953b07a0cdc02139ee7625f2627f8778a7224c04f730161cb",
+      "sha256": "7a4bcf9bf4312cc953b07a0cdc02139ee7625f2627f8778a7224c04f730161cb",
+      "size": 1210368,
+      "version": "2.26.1126.989"
     },
     {
       "path": "2027/TNov/Npgsql.dll",
@@ -272,10 +272,10 @@
     },
     {
       "path": "2027/TNov/TNovViewsSheets.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/de4cd441a61ea02798bc385cdf3f52133d5e3397c34ddb7cf5f5d4d07c94aa18",
-      "sha256": "de4cd441a61ea02798bc385cdf3f52133d5e3397c34ddb7cf5f5d4d07c94aa18",
-      "size": 1210368,
-      "version": "2.26.1123.682"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/44a473d5a4fb71d6cbc7751363bcfcab853ed39aaf9b9eb7407b8077553f858d",
+      "sha256": "44a473d5a4fb71d6cbc7751363bcfcab853ed39aaf9b9eb7407b8077553f858d",
+      "size": 1204224,
+      "version": "2.26.1126.990"
     },
     {
       "path": "acad/PackageContents.xml",
@@ -1223,9 +1223,9 @@
     },
     {
       "path": "releases",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/da70e45ed714879d8db083641d8cb582f6c5002e61943f7ae6bce831fffafc8f",
-      "sha256": "da70e45ed714879d8db083641d8cb582f6c5002e61943f7ae6bce831fffafc8f",
-      "size": 81953
+      "url": "https://tnov.pm-nova.ru/dist/blobs/a9db9628876e1ed24cdd254dbb2b604cff87ffcc13fa3682406f2e9a1816c08d",
+      "sha256": "a9db9628876e1ed24cdd254dbb2b604cff87ffcc13fa3682406f2e9a1816c08d",
+      "size": 82229
     }
   ]
 }
