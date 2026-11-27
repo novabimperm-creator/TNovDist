@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "corp",
-  "release": "r2026.11.27-100432",
-  "generated": "2026-11-27T05:04:32.8193307Z",
+  "release": "r2026.11.27-142117",
+  "generated": "2026-11-27T09:21:17.7739458Z",
   "files": [
     {
       "path": "2022/TNov/Npgsql.dll",
@@ -48,10 +48,10 @@
     },
     {
       "path": "2022/TNov/TNovCommon.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/3c63dd10437b47d19ec10e4e00a5ec6246cfed021293aac1198def2daf822e7e",
-      "sha256": "3c63dd10437b47d19ec10e4e00a5ec6246cfed021293aac1198def2daf822e7e",
-      "size": 1404416,
-      "version": "2.26.1123.802"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/5accfd594df37d6474b583fc9769aeb7a1501aada516017b72a6b3419c44b818",
+      "sha256": "5accfd594df37d6474b583fc9769aeb7a1501aada516017b72a6b3419c44b818",
+      "size": 1414144,
+      "version": "2.26.1127.858"
     },
     {
       "path": "2022/TNov/TNovElectrical.dll",
@@ -181,10 +181,10 @@
     },
     {
       "path": "2027/TNov/TNovCommon.dll",
-      "url": "https://tnov.pm-nova.ru/dist/blobs/6fcd42865fe4c65fa6a1701878c07ff816e112a15d1e674abf7445ca39206741",
-      "sha256": "6fcd42865fe4c65fa6a1701878c07ff816e112a15d1e674abf7445ca39206741",
-      "size": 1408512,
-      "version": "2.26.1123.802"
+      "url": "https://tnov.pm-nova.ru/dist/blobs/328e8c288265935e6734a8b97c2a83771fc7c06f32cb542f5261a40caf54f5c8",
+      "sha256": "328e8c288265935e6734a8b97c2a83771fc7c06f32cb542f5261a40caf54f5c8",
+      "size": 1418240,
+      "version": "2.26.1127.858"
     },
     {
       "path": "2027/TNov/TNovElectrical.dll",
